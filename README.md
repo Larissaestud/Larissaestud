@@ -20,8 +20,8 @@
 
 ## 📚 Atualmente
 
-🎮 Desenvolvendo o game **Life XP** em GDScript com :contentReference[oaicite:1]{index=1}  
-📖 Cursando ADS na :contentReference[oaicite:2]{index=2}  
+🎮 Desenvolvendo o game **Life XP** em GDScript com Godot  
+📖 Cursando Análise e Desenvolvimento de Sistemas na UVV  
 💻 Aprendendo mais sobre desenvolvimento de software e banco de dados
 
 ## ✨ Interesses
