@@ -1,16 +1,20 @@
-## Hi there 👋
+# Oi, eu sou a Larissa 👋
 
-<!--
-**Larissaestud/Larissaestud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – UVV
 
-Here are some ideas to get you started:
+💻 Tecnologias e estudos:
+- GDScript
+- Godot Engine
+- Git / GitHub
+- Banco de Dados
+- Desenvolvimento de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente:
+- Desenvolvendo o jogo Life XP
+- Cursando ADS
+- Aprendendo mais sobre programação e desenvolvimento de sistemas
+
+✨ Interesses:
+- Desenvolvimento de software
+- Games
+- Tecnologia
